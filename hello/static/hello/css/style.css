@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image:url("static/wall.jpg");
+}
+
+h1  {
+    color: #C25100;
+    font-family: 'Lobster';
+    font-size: large;
+}
